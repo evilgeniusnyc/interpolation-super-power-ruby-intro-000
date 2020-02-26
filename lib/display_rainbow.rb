@@ -4,7 +4,7 @@ display_rainbow (an array of colors)
 end
 
 def
-an array of colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
+display_rainbow (an array of colors) = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 puts "R: #{red}[0]"
 puts "O: #{orange}[1]"
 puts "Y: #{yellow}[2]"
