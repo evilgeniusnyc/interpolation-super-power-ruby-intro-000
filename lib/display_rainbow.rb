@@ -2,7 +2,7 @@
 
 array_of_colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
-
+def
 puts "R: #{red}[0]"
 puts "O: #{orange}[1]"
 puts "Y: #{yellow}[2]"
