@@ -15,4 +15,5 @@ puts "V: #{violet}[6]"
 
 end
 
-display_rainbow
+print display_rainbow
+
