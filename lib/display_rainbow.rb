@@ -2,7 +2,7 @@
 
 array_of_colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
-def disolay_rainbow
+def disolay_rainbow(array_of_colors)
 puts "R: #{red}[0]"
 puts "O: #{orange}[1]"
 puts "Y: #{yellow}[2]"
