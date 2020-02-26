@@ -1,10 +1,10 @@
 # Write your #display_rainbow method here
 def
-display_rainbow (an array of colors)
+display_rainbow (an_array_of_colors)
 end
 
 def
-display_rainbow (an array of colors) = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
+display_rainbow (an_array_of_colors) = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 puts "R: #{red}[0]"
 puts "O: #{orange}[1]"
 puts "Y: #{yellow}[2]"
